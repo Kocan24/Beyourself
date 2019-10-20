@@ -1,0 +1,12 @@
+[Project]
+FileName=F:\BELAJAR\ALGO\MuhammadIhsan_10118037\Wajah manusia.dp
+Name=Wajah manusia
+MainUnit=F:\BELAJAR\ALGO\MuhammadIhsan_10118037\wajahmanusia.pas
+UnitCount=1
+ResFiles=F:\BELAJAR\ALGO\MuhammadIhsan_10118037\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=F:\BELAJAR\ALGO\MuhammadIhsan_10118037\wajahmanusia.pas
+FileTime=1310960093

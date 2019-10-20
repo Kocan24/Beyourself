@@ -1,0 +1,12 @@
+[Project]
+FileName=F:\BELAJAR\ALGO\MuhammadIhsan_10118037\Barisan Fibonacci.dp
+Name=Barisan Fibonacci
+MainUnit=F:\BELAJAR\ALGO\MuhammadIhsan_10118037\BarisanFibonacci.pas
+UnitCount=1
+ResFiles=D:\MuhammadIhsan_10118037\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=F:\BELAJAR\ALGO\MuhammadIhsan_10118037\BarisanFibonacci.pas
+FileTime=1300063897

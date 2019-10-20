@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\MuhammadIhsan_10118037\Data_stok_buku.dp
+Name=Data_stok_buku
+MainUnit=D:\MuhammadIhsan_10118037\DataStokBuku.pas
+UnitCount=1
+ResFiles=D:\MuhammadIhsan_10118037\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\MuhammadIhsan_10118037\DataStokBuku.pas
+FileTime=1301112878

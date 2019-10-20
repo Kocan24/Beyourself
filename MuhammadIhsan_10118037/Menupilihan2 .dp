@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\MuhammadIhsan_10118037\Menupilihan2 .dp
+Name=Menupilihan2
+MainUnit=D:\MuhammadIhsan_10118037\Menu_pilihan2.pas
+UnitCount=1
+ResFiles=D:\MuhammadIhsan_10118037\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\MuhammadIhsan_10118037\Menu_pilihan2.pas
+FileTime=1297704627

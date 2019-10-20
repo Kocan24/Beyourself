@@ -1,0 +1,12 @@
+[Project]
+FileName=F:\BELAJAR\ALGO\MuhammadIhsan_10118037\BIAYA PARKIR.dp
+Name=BIAYA PARKIR
+MainUnit=F:\BELAJAR\ALGO\MuhammadIhsan_10118037\BiayaParkir.pas
+UnitCount=1
+ResFiles=F:\BELAJAR\ALGO\MuhammadIhsan_10118037\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=F:\BELAJAR\ALGO\MuhammadIhsan_10118037\BiayaParkir.pas
+FileTime=1310960017
